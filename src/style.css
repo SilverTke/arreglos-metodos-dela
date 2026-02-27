@@ -1,0 +1,16 @@
+:root {
+  font-family: sans-serif;
+}
+
+body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 5rem 1fr;
+}
+
+main {
+  display: grid;
+  gap: 4px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 2rem 1fr;
+}
